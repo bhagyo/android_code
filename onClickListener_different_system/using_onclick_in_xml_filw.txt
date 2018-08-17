@@ -1,0 +1,30 @@
+package com.example.bhagyo.test1;
+
+import android.os.Handler;
+import android.support.v7.app.AppCompatActivity;
+import android.os.Bundle;
+import android.view.View;
+import android.widget.Button;
+import android.widget.TextView;
+
+public class MainActivity extends AppCompatActivity  {
+    private TextView m_txt;
+    private Button m_btn1,m_btn2;
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_main);
+
+        m_btn1 = findViewById(R.id.btn1);
+        m_btn2 = findViewById(R.id.btn2);
+        m_txt = findViewById(R.id.txt);
+
+    }
+
+    public void ShowMessage(View view) {
+        if(view.getId() == R.id.btn1)
+            m_txt.setText("login button is clicked");
+        else
+            m_txt.setText("logout button is clicked");
+    }
+}
