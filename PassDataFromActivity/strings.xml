@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PassDataFromActivity</string>
+    <string name="main_button_text">go to the second activity</string>
+    <string name="second_button_text">go to the first activity</string>
+</resources>
