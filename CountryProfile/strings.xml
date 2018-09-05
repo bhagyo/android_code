@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">CountryProfile</string>
+    <string name="bangladesh_text">
+        The Greeks and Romans identified the region as Gangaridai,
+        a powerful kingdom of the historical Indian subcontinent,
+        in the 3rd century BCE. Archaeological research has unearthed several\n ancient cities in
+        Bangladesh, which enjoyed international trade links for millennia.[15]\n\nThe Bengal Sultanate
+        and Mughal Bengal transformed the region into a cosmopolitan Islamic imperial power between
+        the 14th and 18th centuries. The region was home to many principalities that made use of
+        their inland naval prowess.[16][17] It was also a notable center of the global muslin
+        and silk trade. As part of British India, the region was influenced by the Bengali
+        renaissance and played an important role in anti-colonial movements. The Partition
+        of British India made East Bengal a part of the Dominion of Pakistan; and renamed
+        it as East Pakistan. The region witnessed the Bengali Language Movement in 1952
+        and the Bangladesh Liberation War in 1971.[18] After
+        independence was achieved, a parliamentary republic\n\n
+        was established. A presidential government was in place between
+        1975 and 1990, followed by a return to parliamentary democracy. The country
+        continues to face challenges in the areas of poverty, education, healthcare and corruption.
+        \n\n\n
+        Bangladesh is a middle power and a developing nation. Listed as one of the Next Eleven,
+        its economy ranks 43rd in terms of nominal gross domestic product and 29th in terms of
+        purchasing power parity. It is one of the largest textile exporters in the world. Its
+        major trading partners are the European Union, the United States, China, India, Japan,
+        Malaysia and Singapore. With its strategically vital location between South, East and
+        Southeast Asia, Bangladesh is an important promoter of regional connectivity and
+        cooperation. It is a founding member of SAARC, BIMSTEC, the Bangladesh-China-India-Myanmar
+        Forum for Regional Cooperation and the Bangladesh Bhutan India Nepal Initiative.\n\n It is
+        also a member of the Organisation of Islamic Cooperation, Commonwealth of Nations,\n\n the
+        Developing 8 Countries, the OIC, the Indian-Ocean Rim Association, the Non Aligned Movement,
+        the Group of 77 and the World Trade Organization. Bangladesh is one of the largest contributors
+        to United Nations peacekeeping forces.
+    </string>
+    <string name="india_text">
+        The Indian subcontinent was home to the urban Indus Valley Civilisation of the 3rd millennium
+        BCE. In the following millennium, the oldest scriptures associated with Hinduism began to be
+        composed. Social stratification, based on caste, emerged in the first millennium BCE, and
+        Buddhism and Jainism arose. Early political consolidations took place under the Maurya and
+        Gupta empires; the later peninsular Middle Kingdoms influenced cultures as far as southeast
+        Asia. In the medieval era, Judaism, Zoroastrianism, Christianity, and Islam arrived, and
+        Sikhism emerged, all adding to the region\'s diverse culture. Much of the north fell to
+        the Delhi Sultanate; the south was united under the Vijayanagara Empire. The economy
+        expanded in the 17th century in the Mughal Empire. In the mid-18th century, the subcontinent
+        came under British East India Company rule, and in the mid-19th under British crown rule. A
+        nationalist movement emerged in the late 19th century, which later, under Mahatma Gandhi,
+        was noted for nonviolent resistance and led to India's independence in 1947.
+
+
+        In 2017, the Indian economy was the world's sixth largest by nominal GDP[20] and third largest
+        by purchasing power parity.[16] Following market-based economic reforms in 1991, India became
+        one of the fastest-growing major economies and is considered a newly industrialised country.
+        However, it continues to face the challenges of poverty, corruption, malnutrition, and inadequate
+        public healthcare. A nuclear weapons state and regional power, it has the second largest standing
+        army in the world and ranks fifth in military expenditure among nations. India is a federal republic
+        governed under a parliamentary system and consists of 29 states and 7 union territories. It is a
+        pluralistic, multilingual and multi-ethnic society and is also home to a diversity of wildlife
+        in a variety of protected habitats.
+    </string>
+    <string name="nepal_text">
+        Around 500 BCE, small kingdoms and confederations of clans arose in the southern regions of Nepal.
+        From one of these, the Shakya polity, arose a prince who later renounced his status to lead an \n\n\n
+        ascetic life, founded Buddhism, and came to be known as Gautama Buddha (traditionally dated 563–483 BCE).[36]
+        By 250 BCE, the southern regions had come under the influence of the Maurya Empire of North India and later
+        became a vassal state under the Gupta Empire in the 4th century CE.[36]
+        There is a quite detailed description of the kingdom of Nepal in the account of the renowned Chinese Buddhist
+        pilgrim monk Xuanzang, dating from about 645 CE.[37][38] Stone inscriptions in the Kathmandu Valley are
+        important sources for the history of Nepal.
+        \n\n\n
+        The kings of the Lichhavi dynasty have been found to have ruled Nepal after the Kirat
+        monarchical dynasty. The context that "Suryavansi Kshetriyas had established a new regime
+        by defeating the Kirats" can be found in some genealogies and Puranas.[35] It is not clear
+        yet when the Lichhavi dynasty was established in Nepal. According to the opinion of Baburam
+        Acharya, the prominent historian of Nepal, Lichhavies established their independent rule by
+        abolishing the Kirati state that prevailed in Nepal around 250 CE.[35] \n\n\n
+        The Licchavi dynasty went into decline in the late 8th century, and was followed by a Newar
+        or Thakuri era. Thakuri kings ruled over the country up to the middle of the 12th century CE;
+        King Raghav Dev is said to have founded the ruling dynasty in October 869 CE.[39] King Raghav
+        Dev also started the Nepal Sambat.[40]
+    </string>
+    <string name="bangladesh">Bangladesh</string>
+</resources>
