@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ListView</string>
+    <string-array name="country_name">
+        <item>AAAAA</item>
+        <item>BBBBB</item>
+        <item>CCCCC</item>
+        <item>DDDDD</item>
+        <item>EEEEE</item>
+        <item>FFFFF</item>
+        <item>GGGGG</item>
+        <item>HHHHH</item>
+        <item>IIIII</item>
+        <item>JJJJJ</item>
+        <item>KKKKK</item>
+        <item>LLLLL</item>
+        <item>MMMMM</item>
+        <item>NNNNN</item>
+        <item>OOOOO</item>
+    </string-array>
+</resources>
